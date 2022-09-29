@@ -1,0 +1,15 @@
+//
+//  data.json
+//  Testing
+//
+//  Created by MAC on 02/09/22.
+//
+
+//import Foundation
+
+{
+    "movie_name" : "Titanic",
+    "release_month" : "12",
+    "release_day" : "19",
+    "release_year" : "1997"
+}
